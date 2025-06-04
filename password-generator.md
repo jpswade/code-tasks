@@ -24,7 +24,7 @@ The function should produce an error in the event of invalid options.
 
 * Passwords should be generated in a way that ensures high entropy and unpredictability.
 * You may use any classes or modules available in the standard Ruby library.
-* External libraries may be used for testing purposes only. The core password
+* External libraries/gems may be used for testing purposes only. The core password
   generation logic must be your own implementation. Don't use them to generate passwords.
 
 ## Deliverables
