@@ -1,6 +1,6 @@
 # Password Generator
 
-**Objective:** Create a password generator that can create a secure password, 
+**Objective:** Create a password generator that can create a cryptographically secure password, 
 suitable for use in authentication systems.
 
 It should be possible to generate a password by calling a method—you may choose
